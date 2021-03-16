@@ -4,7 +4,7 @@ export default function Contact() {
   return (
     <>
       <h1>Contato</h1>
-      <img src="/vercel.svg" alt="Vercel Logo"/>
+      <img src="/v2/vercel.svg" alt="Vercel Logo"/>
     </>
   );
 }
